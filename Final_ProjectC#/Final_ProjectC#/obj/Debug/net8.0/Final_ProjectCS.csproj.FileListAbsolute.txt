@@ -1,0 +1,14 @@
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\bin\Debug\net8.0\Final_ProjectCS.exe
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\bin\Debug\net8.0\Final_ProjectCS.deps.json
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\bin\Debug\net8.0\Final_ProjectCS.runtimeconfig.json
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\bin\Debug\net8.0\Final_ProjectCS.dll
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\bin\Debug\net8.0\Final_ProjectCS.pdb
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.AssemblyInfoInputs.cache
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.AssemblyInfo.cs
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.csproj.CoreCompileInputs.cache
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.dll
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\refint\Final_ProjectCS.dll
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.pdb
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\Final_ProjectCS.genruntimeconfig.cache
+C:\Users\arzum\source\repos\Final_ProjectC#\Final_ProjectC#\obj\Debug\net8.0\ref\Final_ProjectCS.dll
